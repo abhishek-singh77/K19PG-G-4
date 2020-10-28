@@ -1,5 +1,5 @@
 # K19PG-G-2
-Parking Management System  INT-213 Roll No, 39, 51,53.     Section- K19PG    Abhishek Singh    Ajay Sharma    Ifshita Kumari.
+Parking Management System  INT-213 Roll No, 39, 51,53.     Section- K19PG    Abhishek Singh   Ifshita Kumari   Ajay Sharma.
 
 
 This is GUI based application designed using tkinter, for managing a complete parking system from user and admin databse to vehicle parking slots.
