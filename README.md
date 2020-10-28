@@ -5,6 +5,10 @@ Parking Management System  INT-213 Roll No, 39, 51,53.     Section- K19PG    Abh
 This is GUI based application designed using tkinter, for managing a complete parking system from user and admin databse to vehicle parking slots.
 
 Install pandas using pip install pandas
+Instal sqlite3 if not preinstalled.
+Install Date and Time module.
+
+Use Pycharm for optimal code access.
 
 https://www.sqlite.org/download.html    for viewing the database file.
 
