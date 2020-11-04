@@ -22,7 +22,7 @@ def position():
     ma = []  # empty temporary matrix
     df = pd.read_csv('Data' + os.path.sep + "map_grid.csv",
                      header=None)  # ,use_cols=range(1,11)) #import matrix map from csv file
-    df.dropna(axis=0)
+    df.dropna(axis=0) # to remove missing value
     temp = df.values.tolist()
 
     ma = temp
